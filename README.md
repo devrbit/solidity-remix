@@ -1,8 +1,10 @@
 # solidity-remix
-smart contract development in solidity
+smart contract development with solidity in remix
 
 sources: 
 https://docs.soliditylang.org/en/v0.8.7/introduction-to-smart-contracts.html
+
+Remix deployed contracts screenshots:
 
 SimpleStorage Contract
 
